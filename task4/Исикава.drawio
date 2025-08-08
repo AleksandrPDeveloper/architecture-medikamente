@@ -1,0 +1,243 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="tiUhnl619ibkV48ltVBw">
+    <mxGraphModel dx="2198" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="480" as="sourcePoint" />
+            <mxPoint x="720" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-2" value="&lt;span style=&quot;caret-color: rgb(214, 214, 214); text-align: left;&quot;&gt;Интеграция&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-6" value="Проблемы" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-7" value="&lt;span style=&quot;caret-color: rgb(214, 214, 214); text-align: left;&quot;&gt;Процессы&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-8" value="&lt;span style=&quot;caret-color: rgb(214, 214, 214); text-align: left;&quot;&gt;Персонал&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-9" value="&lt;span style=&quot;caret-color: rgb(214, 214, 214); text-align: left;&quot;&gt;Инфраструктура&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="710" as="sourcePoint" />
+            <mxPoint x="120" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294" y="710" as="sourcePoint" />
+            <mxPoint x="414" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="710" as="sourcePoint" />
+            <mxPoint x="690" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q1hCU4BxJyxQ0MArUNmQ-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="510" as="sourcePoint" />
+            <mxPoint x="260" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-21" value="&lt;span style=&quot;caret-color: rgb(214, 214, 214); text-align: left;&quot;&gt;Программное обеспечение&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="230" as="sourcePoint" />
+            <mxPoint x="560" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="290" as="sourcePoint" />
+            <mxPoint x="140" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-28" value="Долгие поставки оборудования" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-24">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-100" y="340" as="sourcePoint" />
+            <mxPoint x="170" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-30" value="Высокая стоимость обородования" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-29">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="390" as="sourcePoint" />
+            <mxPoint x="200" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-32" value="Недостаточно компетенций по настройке&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-31">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-35" value="Высокая стоимость ПО" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-34">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="330" as="sourcePoint" />
+            <mxPoint x="480" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-37" value="Долгий цикл разработки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-36">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="380" as="sourcePoint" />
+            <mxPoint x="500" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-40" value="Недостаточно компетенций по использованию" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-39">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="530" as="sourcePoint" />
+            <mxPoint x="70" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-42" value="Ограниченность методов интеграций" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-41">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="580" as="sourcePoint" />
+            <mxPoint x="60" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-44" value="Отсутствие мотивации для интеграций" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-43">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-240" y="640" as="sourcePoint" />
+            <mxPoint x="30" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-46" value="Сложная схема интеграции" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-45">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="520" as="sourcePoint" />
+            <mxPoint x="390" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-48" value="Недостаточное количество людей" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-47">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="570" as="sourcePoint" />
+            <mxPoint x="360" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-50" value="Противодействие нововведениям" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-49">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="620" as="sourcePoint" />
+            <mxPoint x="340" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-54" value="Сложившиеся привычки, сопротивление" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-53">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="670" as="sourcePoint" />
+            <mxPoint x="310" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-56" value="Отсутствие ИБ гигиены" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-55">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="570" as="sourcePoint" />
+            <mxPoint x="650" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-58" value="Недокументированные процессы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-57">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="640" as="sourcePoint" />
+            <mxPoint x="610" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-60" value="Сложность процессов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-59">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-62" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Отчёт&lt;/h1&gt;&lt;div&gt;&lt;b&gt;Инфраструктура&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Поскольку компания работала со своими серверами, то скорее всего изначально выбор может пасть на покупку своего нового оборудования, чтобы перееиспользовать старое и реализовывать свои ЦОДЫ, однако это может привести к ряду проблем.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вероятность долгих поставок оборудования, высокой стомости, и новых компетенций по настройке оборудования и технологий. Т.к. придется поддерживать все от сервера, до телефонии условно.&lt;br&gt;&lt;br&gt;Решением может быть использование облачных сервисов, с предоставлением SaaS, это упростить развертывание и риски поставок и обучения сотрудников, а так же содержание большого штата по поддержке, таким образом можно развернуть отказоустойчивую инфраструктуру, вложим минимум при начальных условиях, в сравнении с окупаемостью оборудования.&lt;br&gt;Так же облачная инфраструктура решает проблему доступа в ЦОД, которая существовала для этого. Для упрощения работы с инфраструктурой можно использовать IaC + git.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;Программное обеспечение&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Программное обеспечение можно разделить на 2 составляющих, то что производит компания для своих нужд, и то которое покупает как готовое. К примеру для CRM пациентов могло бы подойти уже какое то из существующих решений в том числе, и на 1С, или на Bitrix, с минимальными вложениями на разработку, можно было бы проверить демо подходит ли CRM компании. При разработке нового ПО, важно реализовывать MVP или проверять PoC чтобы не уйти в большие затраты не нужного важно придерживаться функциональных требований, и каждый раз обновлять их и синхронизироваться с бизнесом&lt;/div&gt;&lt;div&gt;при использовании новых технологий, следует, обучать сотрудников,по работе с ними, участвовать в сессиях вебинарах.&lt;br&gt;Чтобы ускорить цикл разработки можно настроить и пользоваться средставми виртуализации и CI-CD,&lt;br&gt;в сочетании с облачными сервисами это поможет быстро развертывать сервисы, перезапускать их тестировать.&lt;br&gt;Следует учесть что штат очень маленький, следовательно нужна трансформация отдела, вообще вся компания подходит под цифровую трансформацию в связи с этим может и работать закон Конвея, так что следовало бы разрабатывать например микросервисную архитектуру несколькими командами которые взаимодействую с бизнесом, в том числе налаживать связи бизнес подразделений для решения общих вопросов, проводить аналитику и регулярные встречи с бизнесом сверять вектор направления разработки.&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Интеграция&lt;/b&gt;&lt;/div&gt;&lt;div&gt;В моем понимании интеграция, это инетграции с внешними сервисами например платежным шлюзом или лабораториями&lt;/div&gt;&lt;div&gt;при работе с текущими партенрами возможны следующие проблемы, нет методов интеграций, например все данные шлют по почте, нет мотивации для интеграции партнер не понимает подхода к конфиденциальности&amp;nbsp;данных, или же просто у партнеров сложные и не надежные схемы интеграций. В этом случае следует исследовать рынок услуг, узнать подробнее о новых партнерах которые могут предоставить хорошие и не дорогие средства интеграции, в крайнем случае предложить реализацию интеграции для себя за свои средства, если возможности у интегратора нет или же он всего лишь один.&lt;br&gt;Постараться найти взаимовыгодные точки для обоих сторон.&lt;br&gt;&lt;br&gt;&lt;b&gt;Персонал&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Работа с персоналам требует отдельного подхода, от найма необходимых сотрудников т.к. компания будет расти, до противодействия новым системам в ключе сопротивлениям новому, сложившихся привчек и отсутствия иб гигиены.&lt;br&gt;Решением проблемы может быть найм недостающих сотрудников, вовлечение персонала в разработку ПО, чтобы он понимал что это облегчит их жизнь, а не усложнит, давать им активно участовать в разработке,&amp;nbsp; предложениях по улучшению и прч. Обучать Иб гигиене и формированию правильных привычек участников бизнес процесса, для облегчения работы самих сотрдников и взаимодействий отделов.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Процессы&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Основной проблемой могут оказаться незадокументированные процессы и сложившиеся практики, или же наоборот, новы процессы могут оказаться слишком сложными на начальных этапах. Необходмо для решения провести работу по сбору коллективных знаний и дополнения и вырванивания бизнес процессов, так же необходимо выявлять кросс функциональные процессы и приглашать всех участников для создания нового и простого бизнес процесса. Во избежание усложнение процесса, его стоит делить на более мелкие, простые задачи которые могут быть распределены между сотрудниками разных отделов и автомтизированны.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="840" width="720" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="430" as="sourcePoint" />
+            <mxPoint x="220" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1hCU4BxJyxQ0MArUNmQ-65" value="Поддержка большого количества технологий" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1hCU4BxJyxQ0MArUNmQ-64">
+          <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
